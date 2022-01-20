@@ -79,6 +79,18 @@ git pull origin main
 
 เคยทดสอบแค่บน MacOS นะครับ แต่ใช้ Python บน Windows ก็ไม่น่าจะมีปัญหาอะไรครับผม
 
+# Development
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create.
+Any contributions you make to the `Python Auto click project` are greatly appreciated.
+
+How to help?
+
+Fork the Project
+Create your feature branch
+Commit your changes
+Make sure everything works as intended
+Open a pull request
+
 
 # ฝาก MQTT Broker ของผมด้วยครับ ทำให้ใช้กันเล่น ๆ
 
