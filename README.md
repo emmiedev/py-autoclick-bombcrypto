@@ -38,7 +38,7 @@
     "loop_time": 50
 }```
 
-refresh_btn = พิกัด x,y ปุ่มรีเฟรชของเบราะเซอร์
+refresh_btn = พิกัด x,y ปุ่มรีเฟรชของเบราเซอร์
 connect_btn_pos = พิกัดปุ่ม Connect metamask
 sign_bnt_pos = พิกัดปุ่ม sign บน Metamask
 start_game = พิกัดปุ่มเข้าเล่นโหมดล่าสมบัติ
