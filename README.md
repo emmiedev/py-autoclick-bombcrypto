@@ -85,11 +85,11 @@ Any contributions you make to the `Python Auto click project` are greatly apprec
 
 How to help?
 
-Fork the Project
-Create your feature branch
-Commit your changes
-Make sure everything works as intended
-Open a pull request
+- Fork the Project
+- Create your feature branch
+- Commit your changes
+- Make sure everything works as intended
+- Open a pull request
 
 
 # ฝาก MQTT Broker ของผมด้วยครับ ทำให้ใช้กันเล่น ๆ
