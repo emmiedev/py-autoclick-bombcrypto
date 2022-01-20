@@ -67,6 +67,19 @@ loop_time = หน่วงเวลาทำทุกๆ ... นาที
 ```
 
 # หลังตั้งค่าเสร็จก็รันด้วย python v3.3+
-```python3 start_all.py```
+```
+python3 start_all.py
+```
+
+### Update ด้วยคำสั่ง
+```
+git pull origin main
+```
+
 
 เคยทดสอบแค่บน MacOS นะครับ แต่ใช้ Python บน Windows ก็ไม่น่าจะมีปัญหาอะไรครับผม
+
+
+# ฝาก MQTT Broker ของผมด้วยครับ ทำให้ใช้กันเล่น ๆ
+
+้https://emmiedev.com
