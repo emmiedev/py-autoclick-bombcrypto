@@ -43,7 +43,7 @@ BSC : 0x55dBA6cb9eA827D518FfDEcF92f2c706A803581e
     "loop_time": 50
 }
 ```
-
+```
 refresh_btn = พิกัด x,y ปุ่มรีเฟรชของเบราเซอร์
 connect_btn_pos = พิกัดปุ่ม Connect metamask
 sign_bnt_pos = พิกัดปุ่ม sign บน Metamask
@@ -52,3 +52,4 @@ get_bomber_pos = พิกัดปุ่มแสดงไอคอมบอม
 all_work_btn_pos = พิกัดปุ่ม ALL ที่เปิดการทำงานตัวละคร
 close_btn_pos = พิกัดปุ่มปิดเมนูตัวละคร
 loop_time = หน่วงเวลาทำทุกๆ ... นาที
+```
