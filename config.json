@@ -1,0 +1,32 @@
+{
+    "refresh_btn": {
+        "x": 84,
+        "y": 84
+    },
+    "connect_btn_pos": {
+        "x": 961,
+        "y": 655
+    },
+    "sign_bnt_pos": {
+        "x": 1817,
+        "y": 590
+    },
+    "start_game": {
+        "x": 952,
+        "y": 457
+    },
+    "get_bomber_pos": {
+        "x": 964,
+        "y": 740
+    },
+    "all_work_btn_pos": {
+        "x": 882,
+        "y": 324
+    },
+    "close_btn_pos": {
+        "x": 1015,
+        "y": 277
+    },
+    
+    "loop_time": 50
+}
