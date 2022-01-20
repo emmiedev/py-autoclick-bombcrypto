@@ -41,7 +41,8 @@ BSC : 0x55dBA6cb9eA827D518FfDEcF92f2c706A803581e
     },
     
     "loop_time": 50
-}```
+}
+```
 
 refresh_btn = พิกัด x,y ปุ่มรีเฟรชของเบราเซอร์
 connect_btn_pos = พิกัดปุ่ม Connect metamask
