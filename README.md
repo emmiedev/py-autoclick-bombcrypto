@@ -95,3 +95,5 @@ How to help?
 # ฝาก MQTT Broker ของผมด้วยครับ ทำให้ใช้กันเล่น ๆ
 
 https://emmiedev.com
+
+อย่ายิงนะครับ ไม่มี Firewall แถมรันบน Raspberry pi 4 เองครับ 5555 เห็นใจข้าน้อยด้วย
