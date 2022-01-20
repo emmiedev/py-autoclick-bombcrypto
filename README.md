@@ -45,11 +45,18 @@ BSC : 0x55dBA6cb9eA827D518FfDEcF92f2c706A803581e
 ```
 ```
 refresh_btn = พิกัด x,y ปุ่มรีเฟรชของเบราเซอร์
+
 connect_btn_pos = พิกัดปุ่ม Connect metamask
+
 sign_bnt_pos = พิกัดปุ่ม sign บน Metamask
+
 start_game = พิกัดปุ่มเข้าเล่นโหมดล่าสมบัติ
+
 get_bomber_pos = พิกัดปุ่มแสดงไอคอมบอมเบอร์ (ปุ่มโชว์เมนูตัวละคร)
+
 all_work_btn_pos = พิกัดปุ่ม ALL ที่เปิดการทำงานตัวละคร
+
 close_btn_pos = พิกัดปุ่มปิดเมนูตัวละคร
+
 loop_time = หน่วงเวลาทำทุกๆ ... นาที
 ```
