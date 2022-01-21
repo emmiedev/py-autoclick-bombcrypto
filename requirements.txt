@@ -1,3 +1,14 @@
 colorama
 pyautogui
 threading
+pandas
+numpy
+opencv-python
+pyscreenshot
+Pillow
+pyclick
+PyYAML
+requests
+mss
+deepdiff
+autopep8
