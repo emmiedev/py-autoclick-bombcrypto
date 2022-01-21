@@ -5,9 +5,8 @@ from subprocess import call
 
 # def find_to_click(img, screen):
 def find_to_click(img):
-    # call(["screencapture", "screenshot.png"])
-    # image = pyautogui.screenshot()
-    image= cv2.imread(pyautogui.screenshot())
+    call(["screencapture", "screenshot.png"])
+    image= cv2.imread("screenshot.png")
     # image= cv2.imread(screen)
     gray= cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     
