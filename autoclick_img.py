@@ -27,6 +27,8 @@ while True:
         for index, img_file in enumerate(image_list):
             if index <= 1:
                 sleep(2)
+            if index == 2:
+                sleep(5)
             if index == 3:
                 sleep(12)
             if index == 4:
